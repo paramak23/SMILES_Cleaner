@@ -3,7 +3,7 @@ message: "If you use this software or tutorial, please cite it as below."
 authors:
 - family-names: "Kandasamy"
   given-names: "Parameswaran"
- title: "Mastering SMILES Cleaning: Salt Stripping with RDKit and Python"
+title: "Mastering SMILES Cleaning: Salt Stripping with RDKit and Python"
 version: 1.0.0
 date-released: 2026-04-15
 url: "https://github.com/paramak23/SMILES_Cleaner"
